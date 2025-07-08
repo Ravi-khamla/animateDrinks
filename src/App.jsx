@@ -13,6 +13,7 @@ function App() {
       <NavBar />
       <HeroSection />
       <MessageSection />
+      <div className='h-dvh'></div>
     </main>
   )
 }
